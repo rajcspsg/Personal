@@ -19,3 +19,4 @@ github_username:  rajkumar
 
 # Build settings
 markdown: kramdown
+permalink: /:title
